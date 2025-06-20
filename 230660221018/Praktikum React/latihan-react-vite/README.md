@@ -14,4 +14,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # My React Vite Project  
 Ini adalah tampilan proyek React saya yang dibuat dengan Vite.  
-![Tampilan Aplikasi](./public/screenshot.png)
+![Tampilan Aplikasi](./assets/images/Screenshot.png)
